@@ -1,5 +1,6 @@
 # bulk-render-blender
 This is made by https://www.youtube.com/c/itsskoobi     //Don't need to credit me if you decide to use this, but if you want to you can.
+This is made with Eclipse + windowbuilder
 You can Bulk render in blender without Video sequence editor.
 
 ---How To USE---
