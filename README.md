@@ -14,8 +14,6 @@ You can delete files from the list, by selecting it and press delete.
 ---What it does---
 It renders. You can render a single file or multiple.
 
----What it does---
-It renders. You can render a single file or multiple.
 
 Jesus bless have a nice day, bye <3!
 
