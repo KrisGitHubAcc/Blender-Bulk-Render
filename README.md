@@ -6,6 +6,7 @@ This is made with Eclipse + windowbuilder
 You can Bulk render in blender without Video sequence editor.
 
 ---How To USE---
+
 Click on it
 Blender location :
 Copy in your Blender.exe location, should look like this  "D:\Software\Blender Foundation\Blender"
@@ -17,6 +18,7 @@ You can delete files from the list, by selecting it and press delete.
 When rendy click render.
 
 ---What it does---
+
 It renders. You can render a single file or multiple.
 
 
