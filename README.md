@@ -17,14 +17,5 @@ It renders. You can render a single file or multiple.
 ---What it does---
 It renders. You can render a single file or multiple.
 
-  ____▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄_a
-  ───█▒▒░░░░░░░░░▒▒█───a
-  ────█░░█░░░░░█░░█────a
-  ─▄▄──█░░░▀█▀░░░█──▄▄─a
-  █░░█─▀▄░░░░░░░▄▀─█░░█a
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█----╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗----█a
-█----║║║╠─║─║─║║║║║╠─----█a
-█----╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝----█
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█a
+Jesus bless have a nice day, bye <3!
 
