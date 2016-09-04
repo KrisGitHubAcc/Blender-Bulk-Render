@@ -11,7 +11,7 @@ Copy in your Blender.exe location, should look like this  "D:\Software\Blender F
 Shift + Right Click then copy to path. Paste that in the text field press enter or Add
 You can delete files from the list, by selecting it and press delete.
 
-When rendy click render
+When rendy click render.
 
 ---What it does---
 It renders. You can render a single file or multiple.
