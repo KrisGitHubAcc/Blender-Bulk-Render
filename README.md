@@ -1,4 +1,4 @@
-# Bulk-Render-Blender
+# Bulk Render Blender
 This is made by https://www.youtube.com/c/itsskoobi     //Don't need to credit me if you decide to use this, but if you want to you can.
 
 This is made with Eclipse + windowbuilder
@@ -23,4 +23,3 @@ It renders. You can render a single file or multiple.
 
 
 Jesus bless have a nice day, bye <3!
-
