@@ -1,4 +1,4 @@
-# Bulk Render Blender
+# Blender Bulk Render 
 This is made by https://www.youtube.com/c/itsskoobi     //Don't need to credit me if you decide to use this, but if you want to you can.
 
 This is made with Eclipse + windowbuilder. The code / Eclipse files are in the zip.
